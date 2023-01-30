@@ -9,3 +9,8 @@ First step is to extract the sections URL's from the main page, then for each se
 Finally we extract the texts from each new and save it in a Dict. Each new belongs to a different subkey named after the new's title and are grouped in another key named after the section.
 
 We also created a function that displays the images with the title and the new's URL.
+
+
+# IMPORTANT:
+THE FILE "Beautiful Soup simple scrapping" IS THE FILE THAT CONTAINS ALL THE STEPS i'VE DONE WHILE MAKING THE PROJECT
+THE FILE "Beautiful Soup simple scrapping for Github" IS THE FILE THAT CONTAINS THE CLEANED CODE
